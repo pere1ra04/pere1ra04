@@ -1,16 +1,14 @@
-### Hi there 👋
+### Skiils 
+<div style="display:  incline_block">
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
-<!--
-**pere1ra04/pere1ra04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+   </div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Formação
+Universidade do Minho- Licenciatura: Engenharia e gestão de Sistemas de Informação
+
+   
