@@ -1,21 +1,54 @@
-# Hello, Welcome to My GitHub!
+# Hello, Welcome to My GitHub! 🇬🇧  
+# Olá, Bem-vindo ao Meu GitHub! 🇵🇹  
 
-I am a student at **University of Minho**, currently studying **Information Systems Engineering and Management**.
+## 🇬🇧 English Version
 
-## Skills
+I am an **AI Engineer** and **Fullstack Developer**. I graduated in **June 2025** with a degree in **Information Systems Engineering and Management** from the **University of Minho**.
+
+### Skills
 <p align="center">
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="assembly" src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=asm&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-## About Me
-I am passionate about technology and programming, with a particular interest in software development and databases. I am always looking for new challenges and opportunities to expand my knowledge.
+### About Me
+I'm passionate about technology and programming, with a strong interest in artificial intelligence, software development, and databases. I'm always looking for new challenges and opportunities to grow and contribute.
 
-## Projects
+### Projects
 Here you will find some of my personal and academic projects. Feel free to explore, and if you have any questions or suggestions, don't hesitate to contact me!
 
-## Contact
+### Contact
 You can reach me through my GitHub profile or via email. I'm always open to interesting collaborations!
+
+
+---
+
+## 🇵🇹 Versão em Português
+
+Sou **Engenheiro de Inteligência Artificial** e **Programador Fullstack**. Concluí a licenciatura em **Engenharia e Gestão de Sistemas de Informação** na **Universidade do Minho** em **junho de 2025**.
+
+### Competências
+<p align="center">
+  <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### Sobre Mim
+Sou apaixonado por tecnologia e programação, com especial interesse em inteligência artificial, desenvolvimento de software e bases de dados. Procuro constantemente novos desafios e oportunidades para crescer e contribuir.
+
+### Projetos
+Aqui encontrarás alguns dos meus projetos pessoais e académicos. Sente-te à vontade para explorar, e caso tenhas alguma dúvida ou sugestão, não hesites em contactar-me!
+
+### Contacto
+Podes entrar em contacto comigo através do meu perfil no GitHub ou por email. Estou sempre disponível para colaborações interessantes!
+
